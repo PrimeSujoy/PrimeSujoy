@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujoy Pramanik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=primesujoy&label=Profile%20views&color=0e75b6&style=flat" alt="primesujoy" /> </p>
@@ -8,20 +8,20 @@
 
 - 🔭 I’m currently working on [Telegram Bot Projects](https://core.telegram.org)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Android, MEARN**
 
-- 📫 How to reach me **iamsujoyp@gmail.com**
+- 📫 To reach me **iamsujoyp@gmail.com**
 
-- 📄 Know about my experiences [3 years i have crafted solutions from chaos, debugged under pressure, and transformed ideas into reality through countless lines of code](3 years i have crafted solutions from chaos, debugged under pressure, and transformed ideas into reality through countless lines of code)
+- 📄 Know about my experiences [i have crafted solutions from chaos, debugged under pressure, and transformed ideas into reality through countless lines of code](i have crafted solutions from chaos, debugged under pressure, and transformed ideas into reality through countless lines of code)
 
 - ⚡ Fun fact **I write code that speaks human - turning coffee into features and bugs into better ideas, one commit at a time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prime_sujoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prime_sujoy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the_hindulog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the_hindulog" height="30" width="40" /></a>
+<a href="https://youtube.com/@The_Hindulog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the_hindulog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
